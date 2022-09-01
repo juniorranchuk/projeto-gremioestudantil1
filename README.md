@@ -1,1 +1,3 @@
-# projeto-gremioestudantil1
+Projeto Site do Grêmio Estudantil
+Aluno Valdomiro Ranchuk 
+Colegio Etadual General Carneiro
